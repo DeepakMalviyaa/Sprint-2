@@ -4636,12 +4636,12 @@ fieldset:disabled .btn {
 .navbar-light .navbar-brand {
     color: rgba(0, 0, 0, .9)
 }
-.logo-img{
+.logoNav{
     max-width: 100px; /* Adjust the width as needed */
     height: auto;
-    margin: 4rem;
-    padding: 1rem;
-    margin-right: 10px; /* Adjust spacing as needed */
+    margin: 1rem;
+    padding: 0rem;
+    margin-right: 36px; /* Adjust spacing as needed */
 }
 
 
